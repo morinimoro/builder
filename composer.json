@@ -4,7 +4,8 @@
     "type": "typo3-cms-extension",
     "require": {
         "php": ">=5.5.0",
-        "fluidtypo3/vhs": ">=2.2.0"
+        "fluidtypo3/vhs": ">=2.2.0",
+        "fluidtypo3/flux": "^8.0"
     },
     "require-dev": {
         "fluidtypo3/development": "^3.0"
